@@ -3,3 +3,4 @@
 test-trainer/
 qa-final-model/
 training-output/
+__pycache__/
