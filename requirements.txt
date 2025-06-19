@@ -1,0 +1,7 @@
+torch
+datasets
+evaluate
+transformers[sentencepiece]
+transformers[torch]
+accelerate
+fastapi[all]

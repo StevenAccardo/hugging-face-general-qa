@@ -1,0 +1,5 @@
+.env
+.python-version
+test-trainer/
+qa-final-model/
+training-output/
